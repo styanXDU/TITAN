@@ -1,6 +1,6 @@
-# UBAR
-This is the code and data for the AAAI 2021 paper "UBAR: Towards Fully End-to-End Task-Oriented Dialog System with GPT-2". [arxiv](https://arxiv.org/pdf/2012.03539.pdf)
+# TITAN
 
+A Task-oriened dialogue dataset with mixed-initiative interactions
 
 ## Abstract
 This paper presents our task-oriented dialog system UBAR
