@@ -1,0 +1,42 @@
+{
+  "restaurant": [
+    "food",
+    "pricerange",
+    "book_day",
+    "book_people",
+    "book_time",
+    "area",
+    "name"
+  ],
+  "hotel": [
+    "area",
+    "internet",
+    "stars",
+    "type",
+    "pricerange",
+    "book_day",
+    "book_people",
+    "book_stay",
+    "parking",
+    "name"
+  ],
+  "attraction": [
+    "area",
+    "type",
+    "name"
+  ],
+  "train": [
+    "day",
+    "departure",
+    "destination",
+    "leaveat",
+    "book_people",
+    "arriveby"
+  ],
+  "taxi": [
+    "arriveby",
+    "leaveat",
+    "departure",
+    "destination"
+  ]
+}
